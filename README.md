@@ -1,5 +1,5 @@
 # Sumry
-### Sumry is an AI-powered tool that generates concise and accurate summaries of research papers. Built for students, researchers, and knowledge seekers, Sumry helps you grasp the core ideas of complex academic literature in seconds.
+Sumry is an AI-powered tool that generates concise and accurate summaries of research papers. Built for students, researchers, and knowledge seekers, Sumry helps you grasp the core ideas of complex academic literature in seconds.<br>
 
 🔍 Supports PDF uploads <br>
 🧠 Uses advanced language models for context-aware summarization<br>
